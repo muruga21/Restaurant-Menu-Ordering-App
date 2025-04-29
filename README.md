@@ -1,4 +1,4 @@
-# Hungry
+# Hungry - 1
 <table>
   <tr>
     <td><img src="assets/icons/app_icon.png" alt="Hungry" style="width: 300px;"/></td>
